@@ -1,0 +1,1006 @@
+ 1073  cd..
+ 1074  pwd
+ 1075  cd Bureau
+ 1076  #!/bin/bash
+ 1077  remove
+ 1078  clear
+ 1079  pwd
+ 1080  cd Bureau
+ 1081  pwd
+ 1082  ok
+ 1083  .bat
+ 1084  udp
+ 1085  sudo apt install hello
+ 1086  hello
+ 1087  sudo apt hour
+ 1088  sudo apt kali linux
+ 1089  sudo apt league of legends
+ 1090  sudo apt
+ 1091  sudo version
+ 1092  sudo apt version
+ 1093  sudo apt source
+ 1094  sudo apt remove
+ 1095  sudo apt update
+ 1096  ./
+ 1097  cd ..
+ 1098  cd..
+ 1099  cd ..
+ 1100  ./
+ 1101  bash
+ 1102  cd Bureau
+ 1103  touch script.sh/Bureau
+ 1104  touch script.sh
+ 1105  #!/bin/bash
+ 1106  echo "hello"
+ 1107  ./script.sh
+ 1108  chmod 777 script.sh
+ 1109  ./script.sh
+ 1110  echo "hello"
+ 1111  ./script.sh
+ 1112  touch script.sh
+ 1113  #!bin/bash
+ 1114  echo "hello" 
+ 1115  ./script.sh
+ 1116  chmod 777 script.sh
+ 1117  ./script.sh
+ 1118  nano script.sh
+ 1119  ./script.sh
+ 1120  nano script.sh
+ 1121  ps
+ 1122  pstree
+ 1123  clear
+ 1124  ./script.sh
+ 1125  echo "comment t'appelles-tu"
+ 1126  read andiolino
+ 1127  echo
+ 1128  ./script.sh
+ 1129  nano script.sh
+ 1130  clear
+ 1131  nano script.sh
+ 1132  script.sh
+ 1133  ./script.sh
+ 1134  echo "hello"
+ 1135  ./script.sh
+ 1136  nano scrit.sh
+ 1137  ./script.sh
+ 1138  touch script.sh
+ 1139  nano script.Sh
+ 1140  ./script.sh
+ 1141  chmod 777 script.sh
+ 1142  ./script.sh 
+ 1143  nano script.
+ 1144  nano script.sh
+ 1145  ./script.sh
+ 1146  nano script.sh
+ 1147  ./script.sh
+ 1148  nano script.sh
+ 1149  ./script.sh 
+ 1150  nano script.sh
+ 1151  ./script.sh 
+ 1152  nano script.sh
+ 1153  ./script.sh 
+ 1154  nano script.sh
+ 1155  ./script.sh 
+ 1156  nano script.sh
+ 1157  ./scr
+ 1158  clear
+ 1159  ./script.sh 
+ 1160  clear
+ 1161  cowsay hello
+ 1162  sudo apt-get install cowsay
+ 1163  cowsay bite
+ 1164  clear
+ 1165  cowsay -t
+ 1166  cowsay -a
+ 1167  cowsay -t
+ 1168  cowsay -f
+ 1169  cowsay -f tux connard
+ 1170  cowsay -f dog
+ 1171  ./script.sh
+ 1172  cd Bureau
+ 1173  ./script.sh
+ 1174  oui
+ 1175  je suis un gros attardé mentale, il me faut un  soin d'urgence dans la thérapie de toute urgence car je nepeuxc plus me jdfkggfkgnje  kgjfjg   cclear
+ 1176  clear
+ 1177  clear
+ 1178  spqkpks
+ 1179  sputnik ta mère
+ 1180  cowsay
+ 1181  cowsay -f
+ 1182  cowsay
+ 1183  cowsay -f
+ 1184  cowsay -t
+ 1185  cowsay -e
+ 1186  cowsay
+ 1187  cowsay -e
+ 1188  jfjdj
+ 1189  exe cowsay
+ 1190  sudo apt install cowsay
+ 1191  cowsay
+ 1192  sudo apt install facebook
+ 1193  ekko 
+ 1194  hello andiolino
+ 1195  hello madafuqer
+ 1196  hello
+ 1197  hello, <w
+ 1198  clear
+ 1199  tux
+ 1200  ttx
+ 1201  sudo apt install ttx
+ 1202  ttx
+ 1203  sudo get apt install 
+ 1204  sudo muffin
+ 1205  clear
+ 1206  cd ..
+ 1207  ..
+ 1208  ../
+ 1209  cd ..
+ 1210  cd home
+ 1211  cd Bureau
+ 1212  ~/
+ 1213  cd apprenant
+ 1214  cd ../cd ..
+ 1215  cd
+ 1216  cd ../ cd ..
+ 1217  cd../cd..
+ 1218  ../£
+ 1219  cd ../
+ 1220  cd ..///
+ 1221  cd home
+ 1222  cd apprenant
+ 1223  ~/
+ 1224  cd home
+ 1225  cd ..
+ 1226  cd Bureau
+ 1227  /hoùe
+ 1228  /home
+ 1229  cd home
+ 1230  cd ..
+ 1231  cd home/apprenant/Bureau
+ 1232  cd ..
+ 1233  ~/Bureau
+ 1234  ~/
+ 1235  cd ..
+ 1236  ~/document
+ 1237  cd ~/
+ 1238  cd //home/apprenant/Bureau
+ 1239  cd ..
+ 1240  ~/Bureau
+ 1241  ~/home/apprenant
+ 1242  cd test hello
+ 1243  cd/test/hello
+ 1244  cd /test/hello
+ 1245  pwd /
+ 1246  pwd/
+ 1247  pwd
+ 1248  pwd §
+ 1249  pwd /
+ 1250  cd /home/apprenant
+ 1251  pwd /
+ 1252  pwd
+ 1253  ls -la
+ 1254  ls -l -z
+ 1255  ls -l -a
+ 1256  ls -l -a /
+ 1257  ls / -la
+ 1258  clear
+ 1259  ls / -la
+ 1260  touch .dev_1
+ 1261  script.sh
+ 1262  mv test hello.txt
+ 1263  ls -l *.doc
+ 1264  ls -l *.txt
+ 1265  firefox
+ 1266  cd Bureau
+ 1267  mkdir modulew2
+ 1268  cd modulew2
+ 1269  mkdir .test
+ 1270  nano .test
+ 1271  mkdir protocole
+ 1272  cd protocole
+ 1273  nslookup
+ 1274  nslookup it-akademy.fr
+ 1275  nano
+ 1276  nslookup it-akademy.fr > ips.txt
+ 1277  nslookup jihane.fr >>ips.txt
+ 1278  cd ..
+ 1279  mkdir sauvegarde
+ 1280  cd sauvegarde
+ 1281  mv
+ 1282  mv [ips.txt]
+ 1283  mv --help
+ 1284  cd
+ 1285  Bureau/modulew2/protocole
+ 1286  cd Bureau/modulew2/protocole
+ 1287  mv
+ 1288  mv [ips.txt] [sauvegarde]
+ 1289  cp
+ 1290  cp [ips.txt]
+ 1291  cp [ips.txt] [sauvegarde]
+ 1292  cp[ips.txt][sauvegarde]
+ 1293  cp [ips.txt][sauvegarde]
+ 1294  help
+ 1295  cp /protocole/ips.txt/sauvegarde/octobre
+ 1296  cp ips.txt octobre.txt
+ 1297  cp octobre.txt/protocole/sauvegarde
+ 1298  cp octobre.txt/protocole/sauvegarde/
+ 1299  cp/protocole/ips.txt /sauvegarde/octobre
+ 1300  cd
+ 1301  cd Bureau/modulew2
+ 1302  mkdir module_w2 wiki
+ 1303  cd modolue_w2 wiki
+ 1304  cd wiki
+ 1305  curl wikipedia
+ 1306  curl wikipedia.com
+ 1307  less
+ 1308  sudo apt update
+ 1309  sudo apt-get install zsh
+ 1310  sudo apt-get install powerline fonts-powerline
+ 1311  sudo apt-get install zsh-theme-powerlevel9k
+ 1312  chsh -s $(which zsh)
+ 1313  sudo apt install curl
+ 1314  sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+ 1315  reboot
+ 1316  shutdown
+ 1317  cd Bureau/php
+ 1318  cd Bureau/
+ 1319  ls
+ 1320  cd Php/
+ 1321  vagrant init 
+ 1322  nano Vagrantfile 
+ 1323  mkdir data
+ 1324  ls
+ 1325  vagrant up
+ 1326  vagrant ssh
+ 1327  nano Vagrantfile 
+ 1328  vagrant ssh
+ 1329  vagrant reload
+ 1330  cd /var/www/html
+ 1331  vagrant ssh
+ 1332  cd Bureau/Php/
+ 1333  vagrant ssh
+ 1334  vagrant halt
+ 1335  cd Bureau/Php/
+ 1336  vagrant up
+ 1337  vagrant ssh
+ 1338  cd
+ 1339  vagrant ssh
+ 1340  cd Bureau/Php/
+ 1341  vagrant ssh
+ 1342  vagrant up
+ 1343  cd Bureau/Php/
+ 1344  vagrant ssh
+ 1345  apt list search "*virtualbox*"
+ 1346  apt list search "*virtualbox*
+ 1347  apt list search "*vagrant*"
+ 1348  cd Bureau/Php/
+ 1349  vagrant ssh
+ 1350  vagrant up
+ 1351  vagrant ssh
+ 1352  ping google.fr
+ 1353  cd
+ 1354  ls
+ 1355  cd Bureau/tp_script_vm/
+ 1356  ls
+ 1357  cp script_vm.sh
+ 1358  ls
+ 1359  ./script_vm.sh
+ 1360  chmod script_vm.sh 
+ 1361  chmod 777 script_vm.sh 
+ 1362  ./script_vm.sh 
+ 1363  cd 
+ 1364  cd Bureau/Php_eval/
+ 1365  vagrant init
+ 1366  nano Vagrantfile 
+ 1367  vagrant up
+ 1368  nano Vagrantfile 
+ 1369  mkdir data
+ 1370  vagrant up
+ 1371  cd
+ 1372  cd Bureau/
+ 1373  cd Php
+ 1374  vagrant halt
+ 1375  cd 
+ 1376  cd Bureau/Php_eval/
+ 1377  vagrant ssh
+ 1378  nano Vagrantfile 
+ 1379  vagrant halt
+ 1380  vagrant up
+ 1381  vagrant ssh
+ 1382  nano Vagrantfile 
+ 1383  vagrant ssh
+ 1384  netstat -tulpn
+ 1385  sudo netstat -tulpn
+ 1386  mysql --version
+ 1387  ls
+ 1388  cd Bureau
+ 1389  java -jar JMerise.jar
+ 1390  cd JMerise05/
+ 1391  java -jar JMerise.jar
+ 1392  sudo mysql -u root
+ 1393  java -jar JMerise.jar
+ 1394  ls
+ 1395  cd Téléchargements
+ 1396  cd bin
+ 1397  tar -zxvf apache-tomcat-9.0.27.tar.gz
+ 1398  cd ../
+ 1399  ls
+ 1400  cd../
+ 1401  cd ../
+ 1402  cd Bureau
+ 1403  ls
+ 1404  cd apache-tomcat-9.0.27/
+ 1405  bin
+ 1406  cd bin
+ 1407  ./startup.sh
+ 1408  netstat -tulpn
+ 1409  cd ..
+ 1410  ls
+ 1411  cd webapps
+ 1412  ls
+ 1413  cp ../../Apprenants.war .
+ 1414  .
+ 1415  cp ../../Apprenants.war .
+ 1416  mysql -uroot -p
+ 1417  java -jar JMerise .jar
+ 1418  cd Bureau
+ 1419  java -jar JMerise .jar
+ 1420  ls
+ 1421  cd apache-tomcat-9.0.27/
+ 1422  java -jar JMerise .jar
+ 1423  cd ../
+ 1424  cd mcd
+ 1425  ls
+ 1426  cd JMerise
+ 1427  cd JMerise05/
+ 1428  java -jar JMerise .jar
+ 1429  java -jar JMerise.jar
+ 1430  ls
+ 1431  cd Bureau
+ 1432  ls
+ 1433  cd evaluation_ajax_responsive
+ 1434  git init
+ 1435  ls -a
+ 1436  git status
+ 1437  git --all
+ 1438  git add --all
+ 1439  git config user.name "Lorlao"
+ 1440  git config user.email "rathipanya.lasmy@gmail.com"
+ 1441  git remote add origin https://github.com/Lorlao/validation_ajax.git
+ 1442  git remote
+ 1443  git push
+ 1444  git push origin master
+ 1445  git status
+ 1446  git commit -m "first commit"
+ 1447  git push origin master
+ 1448  ls
+ 1449  cd Bureau
+ 1450  mkdir pdo
+ 1451  cd pdo
+ 1452  mkdir data
+ 1453  vagrant init
+ 1454  nano Vagrantfile
+ 1455  sudo nano ~/.ssh/known_hosts 
+ 1456  ls
+ 1457  exit
+ 1458  cd Bureau
+ 1459  ls
+ 1460  cd pdo
+ 1461  ls
+ 1462  nano Vagrantfile
+ 1463  vagrant up
+ 1464  vagrant ssh
+ 1465  vagrant ssh-config
+ 1466  php -v
+ 1467  ls
+ 1468  vagrant ssh
+ 1469  pwd
+ 1470  cd cd ./
+ 1471  cd.
+ 1472  cd ./
+ 1473  pwd
+ 1474  cd Bureau/pdo
+ 1475  vagrant up
+ 1476  vagrant ssh
+ 1477  cd ./
+ 1478  cd ../
+ 1479  pwd
+ 1480  cd ItProject-master/
+ 1481  vagrant ssh
+ 1482  vagrant up
+ 1483  ls
+ 1484  pwd
+ 1485  cd Bureau/it_project
+ 1486  vagrant init
+ 1487  mkdir data
+ 1488  nano Vagrantfile
+ 1489  vagrant up
+ 1490  vagrant ssh
+ 1491  cd Bureau/it_project
+ 1492  vagrant up
+ 1493  vagrant ssh
+ 1494  pwd
+ 1495  cd Bureau/it_project
+ 1496  cd ../
+ 1497  cd JMerise05/
+ 1498  ls
+ 1499  java -jar JMerise.jar 
+ 1500  pwd
+ 1501  cd Bureau/pdo
+ 1502  ls
+ 1503  vagrant up
+ 1504  vagrant ssh
+ 1505  cd ../
+ 1506  cd php
+ 1507  ls
+ 1508  vagrant up
+ 1509  vagrant ssh
+ 1510  pwd
+ 1511  cd ../
+ 1512  ls
+ 1513  cd ItProject-master/
+ 1514  vagrant up
+ 1515  vagrant ssh
+ 1516  sudo nano ~/.ssh/known_hosts
+ 1517  pwd
+ 1518  cd Bureau
+ 1519  ls
+ 1520  cd ItProject-master/
+ 1521  ls
+ 1522  vagrant up
+ 1523  vagrant ssh
+ 1524  cd Bureau
+ 1525  ls
+ 1526  cd ItProject-master/
+ 1527  vagrant init
+ 1528  nano Vagrantfile
+ 1529  vagrant up
+ 1530  vagrant ssh
+ 1531  sudo nano ~/ssh/known_hosts
+ 1532  sudo service apache2 restart
+ 1533  sudo nano ~/ssh/known_hosts
+ 1534  cd Bureau
+ 1535  cd ItProject/
+ 1536  vagrant up
+ 1537  vagrant ssh
+ 1538  sudo nano ~/.ssh/known_hosts
+ 1539  cd Bureau/JMerise05/
+ 1540  java -jar JMerise.jar
+ 1541  pwd
+ 1542  cd Bureau/BEL
+ 1543  vagrant up
+ 1544  vagrant init
+ 1545  mkdir data
+ 1546  nano Vagrantfile
+ 1547  vagrant ssh
+ 1548  vagrant up
+ 1549  vagrant ssh
+ 1550  vagrant init
+ 1551  cd Bureau/BEL
+ 1552  vagrant init
+ 1553  nano Vagrantfile
+ 1554  vagrant up
+ 1555  vagrant ssh
+ 1556  cd Bureau
+ 1557  cd BEL
+ 1558  vagrant up
+ 1559  vagrant ssh
+ 1560  cd laravel
+ 1561  mkdir data
+ 1562  vagrant init
+ 1563  nano Vagrantfile
+ 1564  vagrant up
+ 1565  vagrant ssh
+ 1566  cd Bureau/laravel/
+ 1567  vagrat up
+ 1568  vagrant up
+ 1569  vagrant ssh
+ 1570  nano Vagrantfile
+ 1571  ls
+ 1572  mkdir data
+ 1573  vagrant init
+ 1574  ls
+ 1575  nano Vagrantfile
+ 1576  vagrant up
+ 1577  vagrant reload
+ 1578  vagrant ssh
+ 1579  vagrant up
+ 1580  nano Vagrantfile
+ 1581  vagrant up
+ 1582  vagrant ssh
+ 1583  nano Vagrantfile
+ 1584  vagrant reload
+ 1585  composer create-project --prefer-dist laravel/laravel project
+ 1586  sudo apt install composer
+ 1587  vagrant reload
+ 1588  vagrant up
+ 1589  vagrant ssh
+ 1590  sudo nano ~/.ssh/known_hosts
+ 1591  sudo service apache2 restart
+ 1592  cd Bureau
+ 1593  ls
+ 1594  mkdir laravel
+ 1595  cd laravel
+ 1596  mkdir data
+ 1597  vagrant init
+ 1598  nano Vagrantfile
+ 1599  vagrant up
+ 1600  vagrant ssh
+ 1601  nano Vagrantfile 
+ 1602  vagrant reload
+ 1603  vagrant up
+ 1604  vagrant ssh
+ 1605  cd Bureau/laravel/
+ 1606  vagrant up
+ 1607  vagrant ssh
+ 1608  cd Bureau/laravel
+ 1609  vagrant up
+ 1610  vagrant ssh
+ 1611  cd Bureau/laravel/
+ 1612  vagrant up
+ 1613  vagrant ssh
+ 1614  sudo nano ~/.ssh/known_hosts
+ 1615  ls
+ 1616  cd Bureau
+ 1617  mkdir validation_laravel
+ 1618  cd validation_laravel/
+ 1619  mkdir data
+ 1620  vagrantfile
+ 1621  vagrant init
+ 1622  nano Vagrantfile
+ 1623  sudo apt update
+ 1624  sudo apt install apache2 -y
+ 1625  vagrant up
+ 1626  vagrant ssh
+ 1627  vagrant -v
+ 1628  ls
+ 1629  cd Bureau
+ 1630  mkdir api_js
+ 1631  cd api_js/
+ 1632  mkdir data
+ 1633  vagrant init
+ 1634  vagrant init laravel/homestead && nano Vagrantfile
+ 1635  vagrant up
+ 1636  vagrant -v
+ 1637  sudo apt remove vagrant
+ 1638  vagrant -v
+ 1639  vagrant up
+ 1640  ls
+ 1641  vagrant up
+ 1642  vagrant -v
+ 1643  vagrant up
+ 1644  sudo apt update
+ 1645  sudo apt install apache2
+ 1646  vagrant ssh
+ 1647  sudo nano /.shh/known_hosts
+ 1648  sudo nano ~/.shh/known_hosts
+ 1649  sudo nano ~/.ssh/known_hosts
+ 1650  cd Bureau/api_js/
+ 1651  ls
+ 1652  nano Vagrantfile
+ 1653  vagrant up
+ 1654  vagrant ssh
+ 1655  vagrant up
+ 1656  vagrant ssh
+ 1657  vagrant halt
+ 1658  vagrant destroy
+ 1659  ls
+ 1660  cd data
+ 1661  ls
+ 1662  rm project
+ 1663  cd ../
+ 1664  ls
+ 1665  vagrant init
+ 1666  nano Vagrantfile 
+ 1667  vagrant up
+ 1668  sudo apt update 
+ 1669  vagrant ssh
+ 1670  cd bureau
+ 1671  cd Bureau
+ 1672  ls
+ 1673  cd api_js/
+ 1674  ls
+ 1675  mkdir front
+ 1676  cd Bureau/api_js/
+ 1677  vagrant up
+ 1678  vagrant ssh
+ 1679  nano Vagrantfile 
+ 1680  virtualbox
+ 1681  vagrant ssh
+ 1682  cd Bureau
+ 1683  ls
+ 1684  cd api_js/
+ 1685  ls
+ 1686  cd data
+ 1687  ls
+ 1688  cd project/
+ 1689  vagrant up
+ 1690  cd ../
+ 1691  vagrant up
+ 1692  vagrant ssh
+ 1693  git init
+ 1694  ls -a
+ 1695  git add --all
+ 1696  git config user.name "Lorlao"
+ 1697  git config user.email "rathipanya.lasmy@gmail.com"
+ 1698  git commit -m "first commit"
+ 1699  git remote add origin https://github.com/Lorlao/validation_api_laravel.git
+ 1700  git remote
+ 1701  git push origin master
+ 1702  cd Bureau
+ 1703  ls
+ 1704  cd laravel
+ 1705  git init
+ 1706  ls -a
+ 1707  git add --all
+ 1708  git config user.name "Lorlao"
+ 1709  git config user.email "rathipanya.lasmy@gmail.com"
+ 1710  git commit -m "first commit"
+ 1711  git remote add origin https://github.com/Lorlao/cours_laravel.git
+ 1712  git remote
+ 1713  git push origin master
+ 1714  cd Bureau
+ 1715  mkdir nodejs
+ 1716  cd nodejs
+ 1717  mkdir data
+ 1718  vagrant init
+ 1719  nano Vagrantfile 
+ 1720  vagrant up
+ 1721  vagrant ssh
+ 1722  vagrant ssh-config
+ 1723  vagrant ssh
+ 1724  cd Bureau
+ 1725  ls
+ 1726  cd nodejs
+ 1727  vagrant up
+ 1728  vagrant ssh
+ 1729  git init
+ 1730  ls -a
+ 1731  git add --all
+ 1732  git config user?name "Lorlao"
+ 1733  git config user.name "Lorlao"
+ 1734  git config user.email "rathipanya.lasmy@gmail.com"
+ 1735  git remote add origin
+ 1736  git remote add origin https://github.com/Lorlao/nodejs.git
+ 1737  git remote
+ 1738  git push origin master
+ 1739  git remote add origin https://github.com/Lorlao/nodejs.git
+ 1740  git init
+ 1741  ls -a
+ 1742  git add --all
+ 1743  git config user.name "Lorlao"
+ 1744  git config user.email "rathipanya.lasmy@gmail.com"
+ 1745  git commit -m "first commit"
+ 1746  git remote add origin https://github.com/Lorlao/nodejs.git
+ 1747  git rempote
+ 1748  git remote
+ 1749  git push origin master
+ 1750  vagrant halt
+ 1751  watch -n 1 sensors
+ 1752  exit
+ 1753  ping www.google.fr
+ 1754  top
+ 1755  watch -N 2 sensors
+ 1756  watch -n 2 sensors
+ 1757  top
+ 1758  sudo rm -rf Téléchargements/*
+ 1759  systeminfo
+ 1760  ls
+ 1761  vagrant up
+ 1762  ls
+ 1763  vagrant up
+ 1764  mysql -u root thecorona -p
+ 1765  sudo mysql -u root thecorona -p
+ 1766  sudo mysql -u root thecorona
+ 1767  sudo mysql -u root thecorona -p
+ 1768  ls
+ 1769  sudo mysql -u root corona -p
+ 1770  sudo mysql -u root thecorona.sql -p
+ 1771  sudo mysql -u root < thecorona.sql -p
+ 1772  sudo mysql -u root -p 0000 corona  < thecorona.sql -p
+ 1773  sudo mysql -u root -p corona  < thecorona.sql -p
+ 1774  vagrant destroy
+ 1775  vagrant up
+ 1776  vagrant destroy
+ 1777  ls
+ 1778  vagrant up
+ 1779  vagrant ssh
+ 1780  vagrant halt
+ 1781  git pull
+ 1782  ls
+ 1783  cd data/
+ 1784  ls
+ 1785  cd bootcamp/
+ 1786  ls
+ 1787  git pull
+ 1788  git clone https://github.com/it-akademy-students/dwm13-bootcamp-team1-dwm13-V2.git
+ 1789  git checkout
+ 1790  ls
+ 1791  git branch
+ 1792  git checkout -b news_page origin/news_page
+ 1793  git branch
+ 1794  git pull
+ 1795  git checkout news_page
+ 1796  git fetch
+ 1797  git pull
+ 1798  git checkout
+ 1799  git pull
+ 1800  git status
+ 1801  git branch
+ 1802  git pull
+ 1803  git status
+ 1804  git fetch
+ 1805  git pull
+ 1806  git pull origin news_page
+ 1807  git checkout
+ 1808  git checkout -b news_page
+ 1809  git pull origin news_page
+ 1810  git branch
+ 1811  git checkout -f news_page origin/news_page
+ 1812  git branch -f news_page origin/news_page
+ 1813  git branch master
+ 1814  git checkout master
+ 1815  git branch -f news_page origin/news_page
+ 1816  git checkout news_page 
+ 1817  ls
+ 1818  cd resources/
+ 1819  ls
+ 1820  cd views/
+ 1821  ls
+ 1822  vagrant up
+ 1823  php -v
+ 1824  sudo a2enmode rewrite
+ 1825  sudo a2enmod rewrite
+ 1826  systemctl restart apache2
+ 1827  sudo service apache2 restart
+ 1828  php -v
+ 1829  vagrant ssh
+ 1830  vagrant up
+ 1831  vagrant ssh
+ 1832  cd ..
+ 1833  vagrant ssh
+ 1834  vagrant up
+ 1835  vagrant ssh
+ 1836  git config --global user.name "olivier-sonrel"
+ 1837  git config --global user.email o.sonrel@it-students.fr
+ 1838  cd ../..
+ 1839  vagrant up
+ 1840  vagrant ssh
+ 1841  cd ../..
+ 1842  vagrant ssh
+ 1843  LS
+ 1844  IT
+ 1845  LS
+ 1846  ls
+ 1847  //s
+ 1848  //s Images
+ 1849  cd do
+ 1850  clear
+ 1851  help
+ 1852  PWD
+ 1853  pwd
+ 1854  LS
+ 1855  ls
+ 1856  cd Images
+ 1857  ls
+ 1858  cd..
+ 1859  cd ..
+ 1860  cd Documents
+ 1861  mkdir Real
+ 1862  ls
+ 1863  mksir Star Wars
+ 1864  ls
+ 1865  cs Real
+ 1866  cd Real
+ 1867  mkdir Gazeuses
+ 1868  ls
+ 1869  cd Gazeuses
+ 1870  touch commands.txt
+ 1871  ls
+ 1872  cat commands.txt
+ 1873  cd ..
+ 1874  ls
+ 1875  cd ..
+ 1876  cd Documents
+ 1877  mkdir Star Wars
+ 1878  mkdir Star Trek
+ 1879  ls
+ 1880  cd Real
+ 1881  mkdir Telluriques
+ 1882  ls
+ 1883  mkdir lala
+ 1884  mkdir lalaa
+ 1885  ls
+ 1886  cd Documents
+ 1887  mkdir Real Starwars Startrex
+ 1888  ls
+ 1889  git clone https://github.com/enzobert/Day00.git
+ 1890  cd Day00/
+ 1891  ls
+ 1892  cd ex0
+ 1893  cd ex00
+ 1894  ls
+ 1895  cd Planets/
+ 1896  ls
+ 1897  mkdir real Starwars Startrek
+ 1898  cd Real
+ 1899  ls
+ 1900  cd real
+ 1901  mkdir tellurique gazeuse
+ 1902  cd ..
+ 1903  cd..
+ 1904  cd ..
+ 1905  cd Planets/
+ 1906  touch documents.txt
+ 1907  touch commandes.txt
+ 1908  history > commandes.txt
+ 1909  ls
+ 1910  mv Jupiter.jpg > real
+ 1911  ls
+ 1912  mv Jupiter.jpg mars.jpg Neptune.jpg saturn.jpg Uranus.jpg Lune.jpg Mercure.jpg Pluton.jpg Terre.jpg  Venus.jpg  real
+ 1913  mv Jupiter.jpg mars.jpeg Neptune.jpg saturn.png Uranus.jpg Lune.jpg Mercure.jpg Pluton.jpg Terre.jpg  Venus.jpg  real
+ 1914  cd real/
+ 1915  mv mars.jpeg Terre.jpg Lune.jpg Venus.jpg tellurique/
+ 1916  mv Jupiter.jpg  Neptune.jpg  saturn.png  Uranus.jpg  gazeuse/
+ 1917  mv Mercure.jpg tellurique/
+ 1918  cd ..
+ 1919  ls
+ 1920  mv Andoria.jpg  Coruscant.jpg  Mustafar.png Naboo.png Tatooine.jpg  starwars
+ 1921  history >> comandes.txt
+ 1922  cat comandes.txt 
+ 1923  ls
+ 1924  mv Andoria.jpg  Coruscant.jpg  Mustafar.png Naboo.png Tatooine.jpg  Starwars
+ 1925  ls
+ 1926  mv JanusVI.jpg Risa.jpg Taris.png  Vulcan.jpg Startrek/
+ 1927  history >> comandes.txt
+ 1928  sl
+ 1929  ls
+ 1930  cd Documents/
+ 1931  ls
+ 1932  cd Day00/
+ 1933  ls
+ 1934  cd ex00
+ 1935  ls
+ 1936  cd Planets/
+ 1937  cd Starwars
+ 1938  cp Andoria.jpg 
+ 1939  mv .. Andoria.jpg 
+ 1940  mv Andoria.jpg Planets
+ 1941  mv Planets Andoria.jpg 
+ 1942  mv Andoria.jpg Startrek/
+ 1943  mv Andoria.jpg Planets/
+ 1944  mv Andoria.jpg Planets.
+ 1945  mv Planets. Andoria.jpg 
+ 1946  mv Andoria.jpg ..
+ 1947  mv Andoria.jpg Startrek
+ 1948  cd Startrek
+ 1949  cd ..
+ 1950  mv Andoria.jpg Startrek
+ 1951  cd Startrek
+ 1952  mv Taris.png ..
+ 1953  cd ..
+ 1954  mv Taris.png StarWars
+ 1955  mv Starwars Taris.png 
+ 1956  mv Taris.png StarWars
+ 1957  mv Taris.png Starwars
+ 1958  mv StarWars Taris.png 
+ 1959  mv Taris.png Starwars
+ 1960  History >> comandes.txt
+ 1961  history >> comandes.txt
+ 1962  cd ..
+ 1963  cd Day01
+ 1964  cd Day00
+ 1965  cd ex01
+ 1966  ls
+ 1967  mkdir php_france_2019.csv 
+ 1968* mkdir php_france_2019.
+ 1969  touch php_france_2019.csv 
+ 1970  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv 
+ 1971  grep 'David' alumni.csv | wc -l > david.csv
+ 1972  grep France alumni.csv | grep 2019 | grep PHP | wc -l > php_france_2019.csv
+ 1973  grep 2018 alumni.csv wc -l > 2018.cvs
+ 1974  grep 2018 alumni.csv | wc -l > 2018.cvs
+ 1975  cd..
+ 1976  cd ..
+ 1977  mkdir ex02
+ 1978  cd ex02
+ 1979  touch Bonjour.sh
+ 1980  cat Bonjour.sh
+ 1981  cat
+ 1982  cd ..
+ 1983  cd ex01
+ 1984  ls
+ 1985  cat alumni.csv 
+ 1986  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l
+ 1987  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript
+ 1988  grep 'Toulouse|Biarritz' alumni.csv 
+ 1989  ls
+ 1990  grep 'Frznce' alumni.csv 
+ 1991  grep 'France' alumni.csv 
+ 1992  grep 'JavaScript' alumni.csv 
+ 1993  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1994  cat javascript_biarritz_toulouse.csv 
+ 1995  ls
+ 1996  grep 'Toulouse|Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1997  cat javascript_biarritz_toulouse.csv 
+ 1998  grep 'Toulouse | Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 1999  grep Toulouse alumni.csv | grep Biarritz | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2000  grep Toulouse alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2001  grep Biarritz alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2002  grep 'Biarritz|toulouse' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2003  grep 'Biarritz|Toulouse' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2004  grep Biarritz|Toulouse alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2005  grep "Biarritz|Toulouse" alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2006  grep (Biarritz|Toulouse) alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2007  grep Biarritz | grep Toulouse alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2008* grep Biarritz  | grep Toulouse | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2009  grep Toulouse alumni.csv | grep Biarritz | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2010  grep Toulouse/Biarritz alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2011  grep 'Toulouse/Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2012  grep 'Toulouse.Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2013  grep 'Toulouse\Biarritz' alumni.csv | grep JavaScript | wc -l > javascript_biarritz_toulouse.csv
+ 2014  grep 'Toulouse\Biarritz'
+ 2015  grep 'Toulouse\Biarritz' alumni.cvs
+ 2016  cat 'Toulouse\Biarritz' alumni.cvs
+ 2017  grep 'Biarritz' alumni.cvs
+ 2018  grep 'France' alumni.csv
+ 2019  grep 'Toulouse' alumni.csv
+ 2020  grep 'Biarrits' alumni.csv
+ 2021  grep 'Biarritz' alumni.csv
+ 2022  grep 'Biarritz|Toulouse' alumni.csv
+ 2023  grep Biarritz alumni.csv
+ 2024  grep Biarritz | ph alumni.csv 
+ 2025  grep Biarritz | PHP alumni.csv
+ 2026  grep Biarritz | grep PHP alumni.csv
+ 2027  grep PHP | grep Biarritz alumni.csv
+ 2028  grep JavaScript alumni.csv > java.csv
+ 2029  cat java.csv
+ 2030  grep Toulouse java.csv > javatoulouse.csv
+ 2031  grep Biarritz java.csv > javaBiarritz.csv
+ 2032  $ cat javatoulouse.csv >> javaBiarritz.csv 
+ 2033  bash cat javatoulouse.csv >> javaBiarritz.csv 
+ 2034  cat javatoulouse.csv >> javaBiarritz.csv 
+ 2035  mv javaBiarritz.csv javascript_biarritz_toulouse.csv 
+ 2036  grep JavaScript javaScript_biarritz-toulouse.csv  wc -l > javascript_biarritz_toulouse.csv
+ 2037  grep JavaScript trotro | wc -l > javascript_biarritz_toulouse.csv
+ 2038  grep JavaScript trotro.csv | wc -l > javascript_biarritz_toulouse.csv
+ 2039  grep Biarritz java.csv > javabia 
+ 2040  cat javatoulouse.csv |wc -l javascript_biarritz_toulouse.csv
+ 2041  cat javatoulouse.csv wc -l javascript_biarritz_toulouse.csv
+ 2042  cat javatoulouse.csv >> javabia
+ 2043  mv javabia javabia.csv
+ 2044  grep JavaScript javabia.csv | wc -l > javascript_biarritz_toulouse.csv
+ 2045  cd ..
+ 2046  cd ex02
+ 2047  $ ./bonjour.sh 
+ 2048  Bonjour, quel est vôtre prénom ? 
+ 2049  {votre prénom}
+ 2050  cat > Bonjour.sh << eof
+$ ./bonjour.sh 
+Bonjour, quel est vôtre prénom ? 
+{votre prénom}
+Bonjour, {votre prénom} !
+eof
+
+ 2051  cat > bonjour.sh
+ 2052  ./bonjour.sh
+ 2053  cat > bonjour.sh
+ 2054  ./bonjour.sh
+ 2055  bash ./bonjour.sh
+ 2056  ls -lra
+ 2057  chmod +x bonjour.sh 
+ 2058  ./bonjour.sh 
+ 2059  cat bonjour.sh 
+ 2060  cat > bonjour.sh
+ 2061  cat bonjour.sh 
+ 2062  cat > bonjour.sh
+ 2063  cat bonjour.sh 
+ 2064  cat > bonjour.sh
+ 2065  cat bonjour.sh 
+ 2066  cat > bonjour.sh
+ 2067  cat bonjour.sh 
+ 2068  cat > bonjour.sh
+ 2069  cat bonjour.sh 
+ 2070  cat > bonjour.sh
+ 2071  cd ..
+ 2072  history > commandess.txt
